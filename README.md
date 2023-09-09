@@ -1,6 +1,6 @@
-My name is Ugochukwu Ejelonu. I am passionate about Cloud, Data and I.T best practices, constantly learning and eager to tackle new challenges. Exploring the vast potential of both cloud and data technology to build scalable and efficient solutions.
+My name is Ugochukwu Ejelonu. I am passionate about Cloud, Data and IT Support, constantly learning and eager to tackle new challenges. Exploring the vast potential of both cloud, data and information technology to build scalable and efficient solutions.
 
-- 🔭  Job interest: Cloud, Data and Devops (Intern or Junior level role)
+- 🔭  Job interest: Cloud, Data and IT Support (Intern or Junior level role)
   
 - 🌱 I’m currently learning and re-learning SQL, Data Viz, Terraform, Kubernetes, Docker, Cloud and numerous services they render to help individuals and organizations operate seemlessly.
  
