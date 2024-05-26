@@ -1,12 +1,12 @@
-My name is Ugochukwu Ejelonu. I am passionate about Cloud, Data and IT Support, constantly learning and eager to tackle new challenges. Exploring the vast potential of both cloud, data and information technology to build scalable and efficient solutions.
+My name is Ugochukwu Ejelonu. I am passionate about Cloud Infrastructure, Data and IT Support, constantly learning and eager to tackle new challenges. Exploring the vast potential of both cloud, data and information technology to build scalable and efficient solutions.
 
-- 🔭  Job interest: Cloud, Data and IT Support (Intern or Junior level role)
+- 🔭  Job interest: Cloud, Data and IT Support (Junior or Intermediate level role)
   
-- 🌱 I’m currently learning and re-learning SQL, Data Viz, Terraform, Kubernetes, Docker, Cloud and numerous services they render to help individuals and organizations operate seemlessly.
+- 🌱 I’m currently learning and re-learning Networking (Cloud & On-Premises), Security, Terraform and numerous services they render to help individuals and organizations operate seemlessly.
  
-- 💞️ I’m looking to collaborate on Cloud and Data Projects.
+- 💞️ I’m looking to collaborate on Cloud Projects.
 
-- 🤔 I’m looking for help with: Improving daily as an I.T Professional.
+- 🤔 I’m looking for help with: Improving daily as a Cloud & On-Premises Network Professional.
  
 - 💬 Ask me about: Anything (Not really much of a polymath).
  
